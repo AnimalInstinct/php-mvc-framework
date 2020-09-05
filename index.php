@@ -1,4 +1,5 @@
 <?php
+echo "Look mom i am coding!";
 
 use Core\Route;
 
